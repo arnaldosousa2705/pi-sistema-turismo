@@ -1,3 +1,8 @@
+/* Card azul para Próximos Eventos */
+.card-eventos-2 .card-header.bg-primary {
+  background-color: #0d6efd !important;
+  color: #fff !important;
+}
  /* CSS para o sistema de turismo */
  /* comentário */
     body {
